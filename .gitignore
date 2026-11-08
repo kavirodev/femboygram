@@ -1,0 +1,10 @@
+cat > .gitignore <<'EOF'
+# Ignore everything
+/*
+
+# Allow only client files
+!/.gitignore
+!/client_gui.py
+!/requirements.txt
+!/README.md
+EOF
