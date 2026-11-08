@@ -93,5 +93,5 @@ python client_gui.py
 ---
 
 <p align="center">
-  <b>FemBoygram — Stay cute. Keep chatting. 💗</b>
+  <b>femboygram — Stay cute. Keep chatting. 💗</b>
 </p>
